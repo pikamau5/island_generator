@@ -1,0 +1,19 @@
+# sp files
+
+**.ini
+**.uasset
+**.png
+**.st
+**.bin
+**.tmp
+**.log
+**.dmp
+**-xml
+**.json
+**.db
+**/Autosaves/**
+**/Advanced_Water_Material/**
+
+!**.umap
+!**/landscape_material/**
+!**leaf_p**
